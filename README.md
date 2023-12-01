@@ -30,7 +30,7 @@
 | :----------------------------------- | ------ | ------------------- |
 | Graphics (RX5700XT)                   | 🟢  | `WhateverGreen.kext` |
 | Sound (ALC4080)                       | 🟢  | Native |
-| USB Ports                            | 🟢  | Native |
+| USB Ports                            | 🟢  | `USBToolBox.kext` & `UTBMap.kext` |
 | Ethernet                             | 🟢  | `AppleIntelI210Ethernet.kext` & `SSDT-I225V.aml`| 
 | Sleep                                | 🟢  | Native |
 
