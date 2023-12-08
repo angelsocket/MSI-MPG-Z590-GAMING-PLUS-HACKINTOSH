@@ -32,7 +32,7 @@
 | Sound (ALC4080)                       | 🟢  | Native |
 | USB Ports                            | 🟢  | `USBToolBox.kext` & `UTBMap.kext` |
 | Ethernet                             | 🟢  | `AppleIntelI210Ethernet.kext` & `SSDT-I225V.aml`| 
-| Sleep                                | 🟢  | Native |
+| Sleep                                | 🔴  | Idk, Kernel Panic |
 
 > ### macOS Continuity
 
