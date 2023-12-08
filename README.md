@@ -12,7 +12,7 @@
 
 ## Software 💾
 - Bootloader: OpenCore 0.9.6
-- macOS: Sonoma 14.1.1
+- macOS: Sonoma 14.1.2
 
 ## What works and what doesn't
 
