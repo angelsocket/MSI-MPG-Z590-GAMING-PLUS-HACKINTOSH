@@ -1,4 +1,4 @@
-# Work in progress!
+# ❗️ Obsolete
 
 # 👋 Hello! This is Hackintosh for MSI MPG Z590 Gaming Plus
 ![Banner](Files/Banner.png)
